@@ -1,2 +1,2 @@
-go test -v | $GOPATH/bin/go-junit-report > testreport.xml
+go test -v | /home/teamcity/golang/bin/go-junit-report > testreport.xml
 
